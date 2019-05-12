@@ -1,5 +1,4 @@
-Dinamica y Control De Robots
+Garcia.Camacho.Jesus.Alberto
 
-
-
-Portafolio de todas las evidencias realizadas en el cuatrimestre.
+Ing.Mecatronica 9.-B
+Dinamica y control de Robots
